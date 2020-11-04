@@ -1,4 +1,5 @@
-venv/
-*.pyc
+*.py
 __pycache__
-wishlist/db.sqlite3
+.vscode
+.idea
+db.sqlite3
